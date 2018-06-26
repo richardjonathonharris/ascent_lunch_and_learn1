@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  font-size: 200%;
+  color: red;
+  text-align: center;
+  text-shadow: 5px 5px #000000;
+}
+
+div.fullname {
+  border-style: double double double double;
+  padding: 45px;
+}
